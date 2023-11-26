@@ -66,3 +66,8 @@ a:hover {
   margin-bottom: 9px;
   text-align: center;
 }
+
+.section-about__block-paragraph {
+  font-size: 20px;
+  margin: 0;
+}
