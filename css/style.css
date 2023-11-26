@@ -1,3 +1,7 @@
+body {
+  background-color: honeydew;
+}
+
 #logo {
   display: block;
   margin-top: -60px;
@@ -24,7 +28,7 @@ li:last-child {
 }
 
 a {
-  color: rgb(252, 91, 115);
+  color: black;
   text-decoration: none;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
