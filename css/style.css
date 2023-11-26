@@ -59,3 +59,10 @@ a:hover {
   text-align: center;
   padding-top: 15px;
 }
+
+.section-about__block-title {
+  font-size: 15px;
+  margin: 0;
+  margin-bottom: 9px;
+  text-align: center;
+}
