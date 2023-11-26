@@ -71,3 +71,16 @@ a:hover {
   font-size: 20px;
   margin: 0;
 }
+
+.section-description__icons-box {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#icon1 {
+  margin-right: 76px;
+}
+
+#icon2 {
+  margin-right: 0;
+}
