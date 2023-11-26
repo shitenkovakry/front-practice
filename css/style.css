@@ -16,6 +16,7 @@ body {
   margin-top: -60px;
   list-style-type: none;
   text-align: center;
+  margin-bottom: 20px;
 }
 
 li {
@@ -38,4 +39,11 @@ a {
 a:hover {
   color: rgb(220, 33, 71);
   font-size: 20px;
+}
+
+.section-about {
+  height: 640px;
+  background-image: url(../img/87e5d0bce435f90af95d5d7b5954c0e0.jpg);
+  background-position: center;
+  margin-bottom: 20px;
 }
