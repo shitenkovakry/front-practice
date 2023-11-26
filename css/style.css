@@ -84,3 +84,16 @@ a:hover {
 #icon2 {
   margin-right: 0;
 }
+
+.section-description__title-in-box {
+  font-size: 60px;
+  margin: 0;
+  text-align: center;
+}
+
+.section-description__text-in-box {
+  font-size: 18px;
+  margin: 0 auto;
+  text-align: center;
+  width: 1000px;
+}
