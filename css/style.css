@@ -95,6 +95,10 @@ a:hover {
   text-align: center;
 }
 
+.section-map {
+  margin-bottom: 20px;
+}
+
 .section-description__text-in-box {
   font-size: 18px;
   margin: 0 auto;
@@ -111,4 +115,21 @@ a:hover {
 iframe {
   display: block;
   margin: 0 auto;
+}
+
+.line {
+  border-top: 1px solid rgb(232, 61, 61);
+  width: 1024px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+footer {
+  height: 80px;
+}
+
+.list-navigation__footer {
+  list-style-type: none;
+  text-align: center;
+  margin-bottom: 20px;
 }
